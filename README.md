@@ -21,5 +21,5 @@ Services/NIH so the user can evaluate his/her BMI:
   Obese:       30 or greater
 ```
 Notes:
-*Compiled with MS Visual Studio 2017 Community (v141).
-*Submitted in partial fulfillment of the requirements of PCC CIS-278.
+* Compiled with MS Visual Studio 2017 Community (v141).
+* Submitted in partial fulfillment of the requirements of PCC CIS-278.
