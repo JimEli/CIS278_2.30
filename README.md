@@ -1,4 +1,4 @@
-# Pima CC CIS178 Week #1 2.30 Exercise
+# Pima CC CIS278 Week #1 2.30 Exercise
 
 Exercise 2.30 on page 71 - (Body Mass Index Calculator)
 ```text
